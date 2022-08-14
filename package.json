@@ -1,0 +1,12 @@
+{
+  "name": "top-80-radio",
+  "version": "1.0.0",
+  "description": "Ecouter TOP 80 radio dans votre enceinte connectée Alexa",
+  "author": "tinkr",
+  "main": "functions/__main__.js",
+  "dependencies": {
+    "lib": "^4.0.2",
+    "fs": "^0.0.1-security",
+    "alexa-verifier":"^2.0.1"
+  }
+}
